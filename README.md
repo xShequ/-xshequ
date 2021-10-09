@@ -8,6 +8,6 @@
   
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xshequ&&langs_count=3&bg_color=10,3A0751,D1193E&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xshequ&&langs_count=3&bg_color=10,EE3E38,D1193E&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&count_private=false)
   
 </div>
