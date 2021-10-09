@@ -7,6 +7,6 @@
   
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xshequ&&langs_count=3&bg_color=10,590000,0d0d0d&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&count_private=false)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xshequ&&langs_count=3&bg_color=10,590000,0d0d0d&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&count_private=false)
   
 </div>
